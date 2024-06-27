@@ -1,0 +1,315 @@
+<mxfile host="Electron" modified="2024-06-27T23:28:09.859Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.4.8 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="8Y43SM6D0rax9-svtply" version="24.3.1" type="device">
+  <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
+    <mxGraphModel dx="2534" dy="838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9Zm1k3Bbjo5YC7vS9iQF-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="9Zm1k3Bbjo5YC7vS9iQF-1" target="9Zm1k3Bbjo5YC7vS9iQF-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9Zm1k3Bbjo5YC7vS9iQF-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="9Zm1k3Bbjo5YC7vS9iQF-1" target="9Zm1k3Bbjo5YC7vS9iQF-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9Zm1k3Bbjo5YC7vS9iQF-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="9Zm1k3Bbjo5YC7vS9iQF-1" target="9Zm1k3Bbjo5YC7vS9iQF-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9Zm1k3Bbjo5YC7vS9iQF-1" value="are you a potato?" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9Zm1k3Bbjo5YC7vS9iQF-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="9Zm1k3Bbjo5YC7vS9iQF-3" target="9Zm1k3Bbjo5YC7vS9iQF-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="330" y="430" />
+              <mxPoint x="30" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Zm1k3Bbjo5YC7vS9iQF-3" value="yes" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="270" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9Zm1k3Bbjo5YC7vS9iQF-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="9Zm1k3Bbjo5YC7vS9iQF-4" target="9Zm1k3Bbjo5YC7vS9iQF-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9Zm1k3Bbjo5YC7vS9iQF-4" value="no" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9Zm1k3Bbjo5YC7vS9iQF-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="9Zm1k3Bbjo5YC7vS9iQF-5" target="9Zm1k3Bbjo5YC7vS9iQF-24" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="840" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Zm1k3Bbjo5YC7vS9iQF-5" value="no input" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="880" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9Zm1k3Bbjo5YC7vS9iQF-13" value="you are a potato" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-30" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9Zm1k3Bbjo5YC7vS9iQF-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="9Zm1k3Bbjo5YC7vS9iQF-15" target="9Zm1k3Bbjo5YC7vS9iQF-18" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Zm1k3Bbjo5YC7vS9iQF-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="9Zm1k3Bbjo5YC7vS9iQF-15" target="9Zm1k3Bbjo5YC7vS9iQF-41" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9Zm1k3Bbjo5YC7vS9iQF-15" value="are you sure?" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9Zm1k3Bbjo5YC7vS9iQF-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="9Zm1k3Bbjo5YC7vS9iQF-18" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Zm1k3Bbjo5YC7vS9iQF-18" value="im pretty sure im not a potato" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="190" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9Zm1k3Bbjo5YC7vS9iQF-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="9Zm1k3Bbjo5YC7vS9iQF-72" target="9Zm1k3Bbjo5YC7vS9iQF-22" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="870" as="targetPoint" />
+            <mxPoint x="200" y="820" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Zm1k3Bbjo5YC7vS9iQF-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="9Zm1k3Bbjo5YC7vS9iQF-20" target="9Zm1k3Bbjo5YC7vS9iQF-72" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9Zm1k3Bbjo5YC7vS9iQF-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="9Zm1k3Bbjo5YC7vS9iQF-20" target="9Zm1k3Bbjo5YC7vS9iQF-41" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="640" />
+              <mxPoint x="380" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Zm1k3Bbjo5YC7vS9iQF-20" value="you do look a bit like a potato, are you still sure?" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="190" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9Zm1k3Bbjo5YC7vS9iQF-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="9Zm1k3Bbjo5YC7vS9iQF-22" target="9Zm1k3Bbjo5YC7vS9iQF-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9Zm1k3Bbjo5YC7vS9iQF-22" value="your acting like a bit of a tuber goober" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9Zm1k3Bbjo5YC7vS9iQF-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="9Zm1k3Bbjo5YC7vS9iQF-24" target="9Zm1k3Bbjo5YC7vS9iQF-26" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="880" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Zm1k3Bbjo5YC7vS9iQF-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="9Zm1k3Bbjo5YC7vS9iQF-24" target="9Zm1k3Bbjo5YC7vS9iQF-32" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9Zm1k3Bbjo5YC7vS9iQF-24" value="Potatos cant talk, I think your a potato" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="920" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9Zm1k3Bbjo5YC7vS9iQF-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="9Zm1k3Bbjo5YC7vS9iQF-26" target="9Zm1k3Bbjo5YC7vS9iQF-15" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="880" y="780" />
+              <mxPoint x="800" y="780" />
+              <mxPoint x="800" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Zm1k3Bbjo5YC7vS9iQF-26" value="nuh uh!" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="820" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9Zm1k3Bbjo5YC7vS9iQF-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="9Zm1k3Bbjo5YC7vS9iQF-32" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1030" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Zm1k3Bbjo5YC7vS9iQF-32" value="no input" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1080" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9Zm1k3Bbjo5YC7vS9iQF-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="9Zm1k3Bbjo5YC7vS9iQF-35" target="9Zm1k3Bbjo5YC7vS9iQF-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9Zm1k3Bbjo5YC7vS9iQF-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="9Zm1k3Bbjo5YC7vS9iQF-35" target="9Zm1k3Bbjo5YC7vS9iQF-38" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="880" y="1010" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Zm1k3Bbjo5YC7vS9iQF-35" value="you are almost certainly a potato" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="970" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9Zm1k3Bbjo5YC7vS9iQF-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="9Zm1k3Bbjo5YC7vS9iQF-38" target="9Zm1k3Bbjo5YC7vS9iQF-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9Zm1k3Bbjo5YC7vS9iQF-38" value="silence again" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="980" y="1390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9Zm1k3Bbjo5YC7vS9iQF-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="9Zm1k3Bbjo5YC7vS9iQF-41" target="9Zm1k3Bbjo5YC7vS9iQF-45" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Zm1k3Bbjo5YC7vS9iQF-41" value="No im not sure" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="600" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9Zm1k3Bbjo5YC7vS9iQF-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="9Zm1k3Bbjo5YC7vS9iQF-45" target="9Zm1k3Bbjo5YC7vS9iQF-47" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9Zm1k3Bbjo5YC7vS9iQF-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="9Zm1k3Bbjo5YC7vS9iQF-45" target="9Zm1k3Bbjo5YC7vS9iQF-48" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9Zm1k3Bbjo5YC7vS9iQF-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="9Zm1k3Bbjo5YC7vS9iQF-45" target="9Zm1k3Bbjo5YC7vS9iQF-52" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Zm1k3Bbjo5YC7vS9iQF-45" value="lets do a personality test how do you feel about dirt?" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="600" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9Zm1k3Bbjo5YC7vS9iQF-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="9Zm1k3Bbjo5YC7vS9iQF-47" target="9Zm1k3Bbjo5YC7vS9iQF-53" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9Zm1k3Bbjo5YC7vS9iQF-47" value="love it" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="520" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9Zm1k3Bbjo5YC7vS9iQF-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="9Zm1k3Bbjo5YC7vS9iQF-48" target="9Zm1k3Bbjo5YC7vS9iQF-58" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9Zm1k3Bbjo5YC7vS9iQF-48" value="hate it" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="670" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9Zm1k3Bbjo5YC7vS9iQF-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="9Zm1k3Bbjo5YC7vS9iQF-52" target="9Zm1k3Bbjo5YC7vS9iQF-75" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="920" />
+              <mxPoint x="490" y="920" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Zm1k3Bbjo5YC7vS9iQF-52" value="what is dirt?" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9Zm1k3Bbjo5YC7vS9iQF-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="9Zm1k3Bbjo5YC7vS9iQF-53" target="9Zm1k3Bbjo5YC7vS9iQF-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="1000" />
+              <mxPoint x="60" y="1000" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Zm1k3Bbjo5YC7vS9iQF-53" value="thats probably what a potato would say!" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="520" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9Zm1k3Bbjo5YC7vS9iQF-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="9Zm1k3Bbjo5YC7vS9iQF-58" target="9Zm1k3Bbjo5YC7vS9iQF-63" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9Zm1k3Bbjo5YC7vS9iQF-58" value="hmm, not conclusive, we&#39;ll need a few more questions" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="670" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9Zm1k3Bbjo5YC7vS9iQF-61" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;at any time no input is selected this tree starts&lt;/span&gt;" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19" parent="1" vertex="1">
+          <mxGeometry x="1010" y="140" width="300" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="9Zm1k3Bbjo5YC7vS9iQF-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="9Zm1k3Bbjo5YC7vS9iQF-63" target="9Zm1k3Bbjo5YC7vS9iQF-66" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="1060" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Zm1k3Bbjo5YC7vS9iQF-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="9Zm1k3Bbjo5YC7vS9iQF-63" target="9Zm1k3Bbjo5YC7vS9iQF-67" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9Zm1k3Bbjo5YC7vS9iQF-63" value="What do you think of the term &quot;tuber goober&quot;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="670" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9Zm1k3Bbjo5YC7vS9iQF-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="9Zm1k3Bbjo5YC7vS9iQF-66" target="9Zm1k3Bbjo5YC7vS9iQF-22" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="600" y="1140" />
+              <mxPoint x="370" y="1140" />
+              <mxPoint x="370" y="890" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Zm1k3Bbjo5YC7vS9iQF-66" value="thats not funny" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="540" y="1060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9Zm1k3Bbjo5YC7vS9iQF-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="9Zm1k3Bbjo5YC7vS9iQF-67" target="9Zm1k3Bbjo5YC7vS9iQF-70" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9Zm1k3Bbjo5YC7vS9iQF-67" value="Not only is that very funny but it describes me perfectly" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="750" y="1050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9Zm1k3Bbjo5YC7vS9iQF-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="9Zm1k3Bbjo5YC7vS9iQF-70" target="9Zm1k3Bbjo5YC7vS9iQF-90" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9Zm1k3Bbjo5YC7vS9iQF-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="9Zm1k3Bbjo5YC7vS9iQF-70" target="9Zm1k3Bbjo5YC7vS9iQF-92" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9Zm1k3Bbjo5YC7vS9iQF-70" value="your so quirky, last question. whats the best root vegtable?" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="750" y="1160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9Zm1k3Bbjo5YC7vS9iQF-72" value="IM NOT A POTATO!" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9Zm1k3Bbjo5YC7vS9iQF-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="9Zm1k3Bbjo5YC7vS9iQF-75" target="9Zm1k3Bbjo5YC7vS9iQF-78" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="1300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Zm1k3Bbjo5YC7vS9iQF-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="9Zm1k3Bbjo5YC7vS9iQF-75" target="9Zm1k3Bbjo5YC7vS9iQF-83" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9Zm1k3Bbjo5YC7vS9iQF-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="9Zm1k3Bbjo5YC7vS9iQF-75" target="9Zm1k3Bbjo5YC7vS9iQF-67" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="1170" />
+              <mxPoint x="680" y="1170" />
+              <mxPoint x="680" y="1080" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Zm1k3Bbjo5YC7vS9iQF-75" value="are you a tuber goober?" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="430" y="1200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9Zm1k3Bbjo5YC7vS9iQF-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="9Zm1k3Bbjo5YC7vS9iQF-78" target="9Zm1k3Bbjo5YC7vS9iQF-81" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9Zm1k3Bbjo5YC7vS9iQF-78" value="Yes" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="1310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9Zm1k3Bbjo5YC7vS9iQF-81" value="space potato" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="1460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9Zm1k3Bbjo5YC7vS9iQF-83" value="No that sounds dumb" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="530" y="1310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9Zm1k3Bbjo5YC7vS9iQF-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.708;entryY=0.978;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="9Zm1k3Bbjo5YC7vS9iQF-83" target="9Zm1k3Bbjo5YC7vS9iQF-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9Zm1k3Bbjo5YC7vS9iQF-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="9Zm1k3Bbjo5YC7vS9iQF-90" target="9Zm1k3Bbjo5YC7vS9iQF-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="770" y="1470" />
+              <mxPoint x="730" y="1470" />
+              <mxPoint x="730" y="1570" />
+              <mxPoint x="-50" y="1570" />
+              <mxPoint x="-50" y="890" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Zm1k3Bbjo5YC7vS9iQF-90" value="POTATOES!!!!" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="710" y="1310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9Zm1k3Bbjo5YC7vS9iQF-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="9Zm1k3Bbjo5YC7vS9iQF-92" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="850" y="1540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Zm1k3Bbjo5YC7vS9iQF-92" value="onions" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="850" y="1310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9Zm1k3Bbjo5YC7vS9iQF-95" value="thats gross, I guess your not a potato though" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="790" y="1540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EoCav-jq7Erk_Xj3kimJ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EoCav-jq7Erk_Xj3kimJ-1" target="9Zm1k3Bbjo5YC7vS9iQF-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EoCav-jq7Erk_Xj3kimJ-1" value="if at any time user puts in something that is not an option it will fail to you are a potato because potatos cannot read" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-370" y="360" width="210" height="190" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
