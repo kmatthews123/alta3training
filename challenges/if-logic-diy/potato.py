@@ -14,18 +14,18 @@ rootveggies = ["Potato",
     "Onion",
     "Parsnip",
     "Jicama",
-    "Beets",
+    "Beet",
     "Kohlrabi",
     "Sweet potato",
     "Burdock root",
     "Cassava",
-    "Shallots",
+    "Shallot",
     "Galangal",
     "Horseradish",
-    "Turnips",
+    "Turnip",
     "Fennel",
     "Turmeric",
-    "Yams"]
+    "Yam"]
 
 #this should be a thing to break out of the while loop but it only kind of does that
 def goagain():
@@ -106,7 +106,7 @@ def noinput():
     if you_silent_1 != "":
         areyousure()
     else:
-        you_silent_2 = input("you are almost certainly a potato")
+        you_silent_2 = input("you are almost certainly a potato, last chance: ")
         if you_silent_2 != "":
             areyousure()
         else:
