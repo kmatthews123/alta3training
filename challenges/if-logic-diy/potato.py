@@ -27,6 +27,7 @@ rootveggies = ["Potato",
     "Turmeric",
     "Yams"]
 
+#this should be a thing to break out of the while loop but it only kind of does that
 def goagain():
     i = str.capitalize(input("would you like to try again? yes or no: "))
     if i == "Yes":
