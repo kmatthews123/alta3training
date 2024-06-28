@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2024-06-27T23:28:09.859Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.4.8 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="8Y43SM6D0rax9-svtply" version="24.3.1" type="device">
+<mxfile host="Electron" modified="2024-06-28T04:04:41.466Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.4.8 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="nttZNoiI6F4vRHPQ7DMQ" version="24.3.1" type="device">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
-    <mxGraphModel dx="2534" dy="838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2986" dy="838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -171,12 +171,13 @@
         <mxCell id="9Zm1k3Bbjo5YC7vS9iQF-48" value="hate it" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="670" y="720" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9Zm1k3Bbjo5YC7vS9iQF-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="9Zm1k3Bbjo5YC7vS9iQF-52" target="9Zm1k3Bbjo5YC7vS9iQF-75" edge="1">
+        <mxCell id="9Zm1k3Bbjo5YC7vS9iQF-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="9Zm1k3Bbjo5YC7vS9iQF-52" target="9Zm1k3Bbjo5YC7vS9iQF-81" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="440" y="920" />
               <mxPoint x="490" y="920" />
             </Array>
+            <mxPoint x="500" y="1220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9Zm1k3Bbjo5YC7vS9iQF-52" value="what is dirt?" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -243,40 +244,8 @@
         <mxCell id="9Zm1k3Bbjo5YC7vS9iQF-72" value="IM NOT A POTATO!" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="720" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9Zm1k3Bbjo5YC7vS9iQF-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="9Zm1k3Bbjo5YC7vS9iQF-75" target="9Zm1k3Bbjo5YC7vS9iQF-78" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="410" y="1300" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9Zm1k3Bbjo5YC7vS9iQF-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="9Zm1k3Bbjo5YC7vS9iQF-75" target="9Zm1k3Bbjo5YC7vS9iQF-83" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="9Zm1k3Bbjo5YC7vS9iQF-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="9Zm1k3Bbjo5YC7vS9iQF-75" target="9Zm1k3Bbjo5YC7vS9iQF-67" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="520" y="1170" />
-              <mxPoint x="680" y="1170" />
-              <mxPoint x="680" y="1080" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9Zm1k3Bbjo5YC7vS9iQF-75" value="are you a tuber goober?" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="430" y="1200" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="9Zm1k3Bbjo5YC7vS9iQF-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="9Zm1k3Bbjo5YC7vS9iQF-78" target="9Zm1k3Bbjo5YC7vS9iQF-81" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="9Zm1k3Bbjo5YC7vS9iQF-78" value="Yes" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="1310" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="9Zm1k3Bbjo5YC7vS9iQF-81" value="space potato" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="1460" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="9Zm1k3Bbjo5YC7vS9iQF-83" value="No that sounds dumb" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="530" y="1310" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="9Zm1k3Bbjo5YC7vS9iQF-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.708;entryY=0.978;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="9Zm1k3Bbjo5YC7vS9iQF-83" target="9Zm1k3Bbjo5YC7vS9iQF-22" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="430" y="1270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9Zm1k3Bbjo5YC7vS9iQF-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="9Zm1k3Bbjo5YC7vS9iQF-90" target="9Zm1k3Bbjo5YC7vS9iQF-13" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -303,10 +272,10 @@
         <mxCell id="9Zm1k3Bbjo5YC7vS9iQF-95" value="thats gross, I guess your not a potato though" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="790" y="1540" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EoCav-jq7Erk_Xj3kimJ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EoCav-jq7Erk_Xj3kimJ-1" target="9Zm1k3Bbjo5YC7vS9iQF-13">
+        <mxCell id="EoCav-jq7Erk_Xj3kimJ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="EoCav-jq7Erk_Xj3kimJ-1" target="9Zm1k3Bbjo5YC7vS9iQF-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EoCav-jq7Erk_Xj3kimJ-1" value="if at any time user puts in something that is not an option it will fail to you are a potato because potatos cannot read" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EoCav-jq7Erk_Xj3kimJ-1" value="if at any time user puts in something that is not an option it will fail to you are a potato because potatos cannot read" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-370" y="360" width="210" height="190" as="geometry" />
         </mxCell>
       </root>
