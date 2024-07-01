@@ -14,3 +14,11 @@ while round < 3 and answer != "Brian":
         print("Sorry, the answer was Brian.")
     else:                 # if answer was wrong
         print("Sorry. Try again!")
+
+## this script diverges from the other montypython program by the following
+## 1. instead of having the answer inside the while loop we declare it outside
+## 2. for the while loop we are also checking if round is less than three and ..
+## we are also checking if the answer is not equeal to brian
+## this streamlines the program because it prevents us having to break out of the while loop
+## this is better practice
+##
