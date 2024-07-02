@@ -28,6 +28,24 @@ rootveggies = ["Potato",
     "Yam"]
 
 #this should be a thing to break out of the while loop but it only kind of does that
+#this whole thing can be deleted by using a while loop correctly
+#List of functions
+# - goagain (not needed)
+# - your_a_potato -
+# - acting_goober -
+# - areyousure (should change so formating is same same/consistant) - 
+# - potatoscantspell -
+# - noinput - 
+# - main (should still be at the bottom)
+# 
+# - actinggoober
+# - areyousure
+# - noinput
+# - potatoscantspell
+# - your_a_potato
+# - main
+#
+# fixed :D
 def goagain():
     i = str.capitalize(input("would you like to try again? yes or no: "))
     if i == "Yes":
@@ -115,7 +133,10 @@ def noinput():
 #main function, initiates all others
 def main():
     #begin by asking user if they are a potato
+    #
     user_potato = str.capitalize(input("Are you a potato? yes or no: "))
+    #user_potato = input("Are you a potato? yes or no: ").capitalise()
+                    #this returns a string              .this is a method for the string object
     #print(user_potato)
 
     #if user says yes
@@ -136,8 +157,12 @@ def main():
                 noinput()
             else:
                 potatoscantspell()
+        
         elif sure_1 == "No":
             areyousure()
+
+        #instead use if not sure_1:
+        # do it this way because it checks if a string is true, thats 
         elif sure_1 == "":
             noinput()
         else:
@@ -150,6 +175,17 @@ def main():
     #if user enters something that is not given as an answer
     else: 
         potatoscantspell()
-go_again = True
-while go_again == True:
+
+#got rid of extraneous while logic
+while True:
     main()
+
+
+
+
+
+# things to improve could do better with while loops
+# when you start the main function breakout 
+# consider refactoring
+# simple stuff like putting modules in alphabetical order
+# try refactoring completely by dragging 
