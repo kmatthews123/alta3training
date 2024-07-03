@@ -19,7 +19,7 @@ echo -e "Containers Cleared!\n"
 echo -e "Assembling Planet Express team...\n"
 
 ### Set ARGS
-DOCKERFILE=$HOME/projects/Python-TLG/alta3trainingansible/docker_stuff/ubuntu/
+DOCKERFILE=/workspaces/alta3training/docker_stuff/ubuntu/
 
 ### Create networks
 sudo docker network create --opt com.docker.network.driver.mtu=1450 --subnet 10.10.2.0/24 ansible-net
@@ -37,7 +37,9 @@ sudo docker run -d  --name fry         -h fry        --ip 10.10.2.4 --network an
 sudo docker run -d  --name zoidberg    -h zoidberg   --ip 10.10.2.5 --network ansible-net zoidberg:22.04
 sudo docker run -d  --name farnsworth  -h farnsworth --ip 10.10.2.6 --network ansible-net registry.gitlab.com/alta3/planetexpress/centos/farnsworth:8
 
-sudo apt install sshpass -y
+#these two things are installed via the dev container config
+#pip3 install ansible
+#sudo apt install sshpass -y
 
 # docker version 20.10.25 patch which dockerfile makes home directories root ownership
 names=("bender" "fry" "zoidberg" "indy")
