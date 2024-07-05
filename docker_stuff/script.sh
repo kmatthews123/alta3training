@@ -40,6 +40,9 @@ sudo docker run -d  --name farnsworth  -h farnsworth --ip 10.10.2.6 --network an
 #these two things are installed via the dev container config
 #pip3 install ansible
 #sudo apt install sshpass -y
+sshpass -p "alta3" ssh-copy-id -i /workspaces/alta3training/paramikosshrsa/.ssh/id_rsa.pub bender@10.10.2.3
+sshpass -p "alta3" ssh-copy-id -i /workspaces/alta3training/paramikosshrsa/.ssh/id_rsa.pub fry@10.10.2.4
+sshpass -p "alta3" ssh-copy-id -i /workspaces/alta3training/paramikosshrsa/.ssh/id_rsa.pub zoidberg@10.10.2.5
 
 # docker version 20.10.25 patch which dockerfile makes home directories root ownership
 names=("bender" "fry" "zoidberg" "indy")
