@@ -40,18 +40,25 @@ sudo docker run -d  --name farnsworth  -h farnsworth --ip 10.10.2.6 --network an
 #these two things are installed via the dev container config
 #pip3 install ansible
 #sudo apt install sshpass -y
-sshpass -p "alta3" ssh-copy-id -i /workspaces/alta3training/paramikosshrsa/.ssh/id_rsa.pub bender@10.10.2.3
-sshpass -p "alta3" ssh-copy-id -i /workspaces/alta3training/paramikosshrsa/.ssh/id_rsa.pub fry@10.10.2.4
-sshpass -p "alta3" ssh-copy-id -i /workspaces/alta3training/paramikosshrsa/.ssh/id_rsa.pub zoidberg@10.10.2.5
+#sshpass -p "alta3" ssh-copy-id -i /workspaces/alta3training/paramikosshrsa/.ssh/id_rsa.pub bender@10.10.2.3
+#sshpass -p "alta3" ssh-copy-id -i /workspaces/alta3training/paramikosshrsa/.ssh/id_rsa.pub fry@10.10.2.4
+#sshpass -p "alta3" ssh-copy-id -i /workspaces/alta3training/paramikosshrsa/.ssh/id_rsa.pub zoidberg@10.10.2.5
 
 # docker version 20.10.25 patch which dockerfile makes home directories root ownership
-names=("bender" "fry" "zoidberg" "indy")
+names=("bender" "fry" "zoidberg")
 for name in "${names[@]}"; do
     sudo docker exec -it $name chown -R $name:$name /home/$name
 done
 
+
+#sshpass -palta3 
+
+#ssh-copy-id -i /workspaces/alta3training/paramikosshrsa/.ssh/id_rsa.pub -f bender@10.10.2.3
+#ssh-copy-id -i /workspaces/alta3training/paramikosshrsa/.ssh/id_rsa.pub -f fry@10.10.2.4
+#ssh-copy-id -i /workspaces/alta3training/paramikosshrsa/.ssh/id_rsa.pub -f zoidberg@10.10.2.5
+
 #echo -e ".ansible.cfg Updated (/home/student/.ansible.cfg)"
-#curl https://static.alta3.com/projects/ansible/deploy/ansiblecfg --create-dirs -o ~/.ansible.cfg
+cp /workspaces/alta3training/docker_stuff/ansible/ansible.cfg ~/.ansible.cfg
 
 #echo -e "Inventory File Updated (/home/student/mycode/inv/dev/hosts)"
 #curl https://static.alta3.com/projects/ansible/deploy/hosts --create-dirs -o ~/mycode/inv/dev/hosts
@@ -59,4 +66,4 @@ done
 #echo -e "Nethosts Inventory File Updated (/home/student/mycode/inv/dev/nethosts)"
 #curl https://static.alta3.com/projects/ansible/deploy/nethosts --create-dirs -o ~/mycode/inv/dev/nethosts
 
-#ansible-playbook ~/px/scripts/px-access.yml -i ~/mycode/inv/dev/hosts
+ansible-playbook /workspaces/alta3training/docker_stuff/ansible/px-acces.yml -i /workspaces/alta3training/docker_stuff/inv/hosts
