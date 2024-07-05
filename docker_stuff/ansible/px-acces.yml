@@ -13,7 +13,7 @@
     authorized_key:
       user: "{{ ansible_user }}"
       state: present
-      key: "{{ lookup('file', '/workspaces/alta3training/paramikosshrsa/.ssh/id_rsa.pub') }}"
+      key: "{{ lookup('file', '/workspaces/alta3training/.ssh/id_rsa.pub') }}"
     tags:
      - keys
 
