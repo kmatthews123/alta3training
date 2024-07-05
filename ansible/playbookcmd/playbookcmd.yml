@@ -1,0 +1,17 @@
+---
+- name: A simple play to test ansible.cfg
+  hosts: localhost
+  connection: local
+  gather_facts: yes
+
+  tasks:
+
+  - name: using apt to install cowsay       # metadata
+    ansible.builtin.apt:                     # the module we want to run, apt.py
+        name: cowsay                         # parameter name has the value cowsay
+        state: present       # parameter state has the value present
+    become: yes              # elevate status to admin, sudo, enable, etc.
+
+  # the command module issues a command on the remote host
+  - name: Issue a date cmd on each remote host
+    command: date
