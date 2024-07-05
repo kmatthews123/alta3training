@@ -18,7 +18,7 @@
 		"ghcr.io/akhildevelops/devcontainer-features/pip:0": {},
 		"ghcr.io/nils-geistmann/devcontainers-features/zsh:0": {
 			"setLocale": true,
-			"theme": "robbyrussell",
+			"theme": "jonathan",
 			"plugins": "git docker",
 			"desiredLocale": "en_US.UTF-8 UTF-8"
 		},
@@ -36,7 +36,7 @@
 		}
 	},
 	//"postCreateCommand": "pip install --upgrade pip",
-	"postCreateCommand": "pip3 install netifaces ansible"
+	"postCreateCommand": "pip3 install netifaces ansible paramiko"
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	// "features": {},
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
