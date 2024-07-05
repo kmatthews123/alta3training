@@ -19,7 +19,7 @@ echo -e "Containers Cleared!\n"
 echo -e "Assembling Planet Express team...\n"
 
 ### Set ARGS
-DOCKERFILE=/workspaces/alta3training/ansible/docker_stuff/ubuntu/
+DOCKERFILE=/workspaces/alta3training/ansible/envsetup/ubuntu/
 
 ### Create networks
 sudo docker network create --opt com.docker.network.driver.mtu=1450 --subnet 10.10.2.0/24 ansible-net
@@ -58,7 +58,7 @@ done
 #ssh-copy-id -i /workspaces/alta3training/paramikosshrsa/.ssh/id_rsa.pub -f zoidberg@10.10.2.5
 
 #echo -e ".ansible.cfg Updated (/home/student/.ansible.cfg)"
-cp /workspaces/alta3training//ansible/docker_stuff/ansible/ansible.cfg ~/.ansible.cfg
+cp /workspaces/alta3training/envsetup/ansible/ansible.cfg ~/.ansible.cfg
 
 #echo -e "Inventory File Updated (/home/student/mycode/inv/dev/hosts)"
 #curl https://static.alta3.com/projects/ansible/deploy/hosts --create-dirs -o ~/mycode/inv/dev/hosts
@@ -66,4 +66,4 @@ cp /workspaces/alta3training//ansible/docker_stuff/ansible/ansible.cfg ~/.ansibl
 #echo -e "Nethosts Inventory File Updated (/home/student/mycode/inv/dev/nethosts)"
 #curl https://static.alta3.com/projects/ansible/deploy/nethosts --create-dirs -o ~/mycode/inv/dev/nethosts
 
-ansible-playbook /workspaces/alta3training/ansible/docker_stuff/ansible/px-acces.yml -i /workspaces/alta3training//ansible/docker_stuff/inv/hosts
+ansible-playbook /workspaces/alta3training/envsetup/ansible/px-acces.yml -i /workspaces/alta3training//ansible/docker_stuff/inv/hosts
