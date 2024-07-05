@@ -58,7 +58,7 @@ done
 #ssh-copy-id -i /workspaces/alta3training/paramikosshrsa/.ssh/id_rsa.pub -f zoidberg@10.10.2.5
 
 #echo -e ".ansible.cfg Updated (/home/student/.ansible.cfg)"
-cp /workspaces/alta3training/docker_stuff/ansible/ansible.cfg ~/.ansible.cfg
+cp /workspaces/alta3training//ansible/docker_stuff/ansible/ansible.cfg ~/.ansible.cfg
 
 #echo -e "Inventory File Updated (/home/student/mycode/inv/dev/hosts)"
 #curl https://static.alta3.com/projects/ansible/deploy/hosts --create-dirs -o ~/mycode/inv/dev/hosts
@@ -66,4 +66,4 @@ cp /workspaces/alta3training/docker_stuff/ansible/ansible.cfg ~/.ansible.cfg
 #echo -e "Nethosts Inventory File Updated (/home/student/mycode/inv/dev/nethosts)"
 #curl https://static.alta3.com/projects/ansible/deploy/nethosts --create-dirs -o ~/mycode/inv/dev/nethosts
 
-ansible-playbook /workspaces/alta3training/docker_stuff/ansible/px-acces.yml -i /workspaces/alta3training/docker_stuff/inv/hosts
+ansible-playbook /workspaces/alta3training/ansible/docker_stuff/ansible/px-acces.yml -i /workspaces/alta3training//ansible/docker_stuff/inv/hosts
