@@ -5,12 +5,20 @@
   gather_facts: yes
 
   tasks:
+  # install cowsay
+  # - name: using apt to install cowsay       # metadata
+  #   ansible.builtin.apt:                     # the module we want to run, apt.py
+  #       name: cowsay                         # parameter name has the value cowsay
+  #       state: present       # parameter state has the value present
+  #   become: yes              # elevate status to admin, sudo, enable, etc.
 
-  - name: using apt to install cowsay       # metadata
-    ansible.builtin.apt:                     # the module we want to run, apt.py
-        name: cowsay                         # parameter name has the value cowsay
-        state: present       # parameter state has the value present
-    become: yes              # elevate status to admin, sudo, enable, etc.
+  tasks:
+  - name: using apt to remove cowsay
+    ansible.builtin.apt:                 # this is the name of the module to use
+        name: cowsay
+        state: absent    # this will REMOVE the application
+    become: yes
+
 
   # the command module issues a command on the remote host
   - name: Issue a date cmd on each remote host
