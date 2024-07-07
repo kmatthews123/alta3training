@@ -2,9 +2,13 @@
 - name: bootstrapping and new user
   hosts: raiders
   connection: ssh   # default connection method (use OpenSSH)
-  gather_facts: True
+  gather_facts: False
 
   tasks:
+
+#ansible -m raw raiders -a "apt-get update" -b
+#ansible -m raw raiders -a "apt install python3-pip -y" -b
+
 
   # update the apt catalog
   - name: "Ensure apt is updated"
