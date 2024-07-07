@@ -59,7 +59,7 @@ done
 
 #echo -e ".ansible.cfg Updated (/home/student/.ansible.cfg)"
 cp /workspaces/alta3training/envsetup/ansible/ansible.cfg ~/.ansible.cfg
-
+cp /workspaces/alta3training/.ssh/id_rsa ~/.ssh
 #echo -e "Inventory File Updated (/home/student/mycode/inv/dev/hosts)"
 #curl https://static.alta3.com/projects/ansible/deploy/hosts --create-dirs -o ~/mycode/inv/dev/hosts
 
